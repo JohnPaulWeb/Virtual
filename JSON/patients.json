@@ -1,0 +1,71 @@
+[
+    {
+        "id": 2,
+        "user_id": 2,
+        "name": "Ako si",
+        "age": 53,
+        "diagnosis": "dsodksdoks",
+        "contact_info": "5-305-3535",
+        "location": "Unknown"
+    },
+    {
+        "id": 3,
+        "user_id": 4,
+        "name": "Ako to",
+        "age": 25,
+        "diagnosis": "sdlssjdjl",
+        "contact_info": "04095489554",
+        "location": "Unknown"
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "name": "meow",
+        "age": 100000,
+        "diagnosis": "wjrowjrowjr",
+        "contact_info": "02992982587"
+    },
+    {
+        "id": 4,
+        "user_id": 3,
+        "name": "jwheihweiweih",
+        "age": 229429928498,
+        "diagnosis": "jwojwoejwojeoj",
+        "contact_info": "029042949248294"
+    },
+    {
+        "id": 5,
+        "user_id": 4,
+        "name": "wekoweeoko",
+        "age": 23,
+        "diagnosis": "okroekroekoekroke",
+        "contact_info": "2092490204"
+    },
+    {
+        "id": 6,
+        "user_id": 7,
+        "name": "ako to",
+        "age": 123,
+        "diagnosis": "Leg Injured",
+        "contact_info": "0987654321",
+        "location": "Dagupan City"
+    },
+    {
+        "id": 7,
+        "user_id": 10,
+        "name": "aki",
+        "age": 19,
+        "diagnosis": "asdsads",
+        "contact_info": "09912313131",
+        "location": "Secret"
+    },
+    {
+        "id": 8,
+        "user_id": 11,
+        "name": "aki",
+        "age": 19,
+        "diagnosis": "asdad",
+        "contact_info": "09912313131sdads",
+        "location": "Secret"
+    }
+]
